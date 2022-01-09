@@ -15,6 +15,7 @@ This movie-db is a web app that display names of movies, title, year of release 
 
 # Technologies Used
  - React js
+ - React Slick (slide move)
  - Redux
  - SASS
  - omdbapi.
